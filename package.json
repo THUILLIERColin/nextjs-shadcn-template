@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "ui": "pnpm dlx shadcn@latest add"
   },
   "dependencies": {
     "@radix-ui/react-dropdown-menu": "^2.1.16",
